@@ -17,3 +17,7 @@ logging:
   level:
     org.hibernate.SQL: debug
     org.hibernate.orm.jdbc.bind: trace # 바인딩되는 모든 파라미터를 찍습니다.
+
+kakaotalk:
+  host: https://kapi.kakao.com
+  token: YOUR_ACCESS_TOKEN
